@@ -1,7 +1,7 @@
-# Cosmetic-Ibsite
+# Cosmetic-website
 Renee – Your Glow, Our Passion!
 About the Project
-Beauty Bliss is a modern cosmetic Ibsite built using HTML, CSS, and JavaScript. It offers users a clean, stylish, and responsive interface to explore a curated range of beauty products. Designed to mimic a boutique online shopping experience, Beauty Bliss focuses on simplicity, elegance, and interactivity.
+Beauty Bliss is a modern cosmetic website built using HTML, CSS, and JavaScript. It offers users a clean, stylish, and responsive interface to explore a curated range of beauty products. Designed to mimic a boutique online shopping experience, Beauty Bliss focuses on simplicity, elegance, and interactivity.
 
 Inspiration
 The inspiration behind Beauty Bliss stems from the booming beauty and skincare industry and the desire to create an aesthetic and user-friendly platform. The aim was to blend functionality with fashionable design—empoIring users to browse beauty essentials with ease.
@@ -36,7 +36,7 @@ Implementing product filtering using plain JavaScript
 Balancing design and performance without using UI libraries
 
 Accomplishments I're Proud Of
-Created a professional and fully responsive Ibsite from scratch
+Created a professional and fully responsive website from scratch
 
 Achieved seamless interactivity with JavaScript
 
